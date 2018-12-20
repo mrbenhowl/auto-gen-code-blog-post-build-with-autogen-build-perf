@@ -17,7 +17,7 @@ Used to compare the performance of webpack between two identical projects with t
 - Run 3: 2511ms
 - Run 4: 2403ms
 - Run 5: 2577ms
-- *Average*: *2549.5ms*
+- **Average**: **2549.5ms**
 
 
 ## Running webpack-dev-server, component index.js file change: compile time for change
@@ -26,4 +26,4 @@ Used to compare the performance of webpack between two identical projects with t
 - Run 3: 142ms
 - Run 4: 238ms
 - Run 5: 183ms
-- *Average*: *181ms*
+- *Average*: **181ms**
